@@ -1,4 +1,6 @@
 ## Prisma ORM
+Este repositório destina-se a documentar meus estudos em Node.js, com um foco específico em um guia introdutório sobre o Prisma.
+
 ### Como iniciar
 1. Instale o prisma como dependencia de desenvolvimento: ``npm i prisma -D``
 2. Inicie o prisma com este comando, passando o dialeto no fim: ``npx prisma init --datasource-provider SQLite``
